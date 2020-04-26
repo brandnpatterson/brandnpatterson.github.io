@@ -52,11 +52,15 @@ h1 {
   justify-content: space-between;
   margin-bottom: 4rem;
   padding: 0 2rem;
+  position: relative;
 }
 
 .intro code {
   background: #eee;
   padding: 1rem;
+  position: absolute;
+  left: 0.5rem;
+  bottom: -2.5rem;
 }
 
 /* work card */
@@ -83,6 +87,12 @@ h1 {
 @media screen and (min-width: 740px) {
   .section {
     width: 740px;
+  }
+
+  .intro code {
+    position: relative;
+    left: auto;
+    bottom: auto;
   }
 
   .work-card {
