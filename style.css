@@ -63,6 +63,10 @@ h1 {
   bottom: -2.5rem;
 }
 
+.contact-code {
+  text-align: right;
+}
+
 /* work card */
 .work-card {
   margin-bottom: 3rem;
