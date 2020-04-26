@@ -1,0 +1,12 @@
+{
+  "name": "brandnpatterson.github.io",
+  "version": "1.0.0",
+  "description": "Brandon Patterson's Portfolio",
+  "author": "Brandon Patterson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandnpatterson/brandnpatterson.github.io.git"
+  },
+  "homepage": "brandnpatterson.com"
+}
