@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
 }
 
 /* typography */
@@ -34,8 +34,11 @@ h1 {
 }
 
 .contact-link {
-  color: black;
   margin: 0.25rem;
+}
+
+.contact-link-social {
+  color: black;
 }
 
 /* section */
