@@ -1,1 +1,0 @@
-# brandnpatterson.github.io
